@@ -13,3 +13,18 @@ C:\Users\kiril\source\repos\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.csproj.Ge
 C:\Users\kiril\source\repos\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.csproj.CoreCompileInputs.cache
 C:\Users\kiril\source\repos\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.exe
 C:\Users\kiril\source\repos\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.pdb
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\bin\Debug\WPF CLIENT.exe.config
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\bin\Debug\WPF CLIENT.exe
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\bin\Debug\WPF CLIENT.pdb
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\MainWindow.g.cs
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\App.g.cs
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT_MarkupCompile.cache
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT_MarkupCompile.lref
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\MainWindow.baml
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.g.resources
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF_CLIENT.Properties.Resources.resources
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.exe
+C:\Users\kiril\source\repos\WCF(s) + WPF(c)\WPF CLIENT\WPF CLIENT\obj\Debug\WPF CLIENT.pdb

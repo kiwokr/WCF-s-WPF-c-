@@ -14,12 +14,6 @@
     </xs:sequence>
   </xs:complexType>
   <xs:element name="CityList" nillable="true" type="tns:CityList" />
-  <xs:complexType name="ArrayOfCityWeather">
-    <xs:sequence>
-      <xs:element minOccurs="0" maxOccurs="unbounded" name="CityWeather" nillable="true" type="tns:CityWeather" />
-    </xs:sequence>
-  </xs:complexType>
-  <xs:element name="ArrayOfCityWeather" nillable="true" type="tns:ArrayOfCityWeather" />
   <xs:complexType name="CityWeather">
     <xs:sequence>
       <xs:element minOccurs="0" name="Date" type="xs:dateTime" />

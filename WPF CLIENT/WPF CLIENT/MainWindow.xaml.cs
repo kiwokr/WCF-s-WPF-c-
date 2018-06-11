@@ -38,17 +38,24 @@ namespace WPF_CLIENT
 
         private void ShowWeather(object sender, RoutedEventArgs e)
         {
-            var client = new WeatherService.WeatherServiceClient("BasicHttpBinding_IWeatherService");
-            string id = CBtest.SelectedValue.ToString();
-            var temp = client.GetWeather(id);
-            int l = temp.Length;
-            //WeatherService.CityWeather weather = new WeatherService.CityWeather(temp.Date, temp.Temperature);
-
+            if(CBtest.SelectedValue != null)
+            {
+                var client = new WeatherService.WeatherServiceClient("BasicHttpBinding_IWeatherService");
+                string id = CBtest.SelectedValue.ToString();
+                WeatherService.CityWeather weather = client.GetWeather(id);
+                LableText.Text = "Погода на " + weather.Date.ToString("D") + " Последнее обновление " + weather.Date.AddDays(-1).ToString("f");
+                string[] temp = weather.Temperature.Split(' ');
+                Time.Text = " 0:00   3:00   6:00   9:00   12:00   15:00   18:00   21:00";
+                Temp.Text = " " + temp[0] + "   " + temp[1] + "   " + temp[2] + "   " + temp[3] + "    " + temp[4] + "     " + temp[5] + "     " + temp[6] + "     " + temp[7];
+            }
+            
 
         }
-        private void Refresh(object sender, RoutedEventArgs e)
-        {
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var client = new WeatherService.WeatherServiceClient("BasicHttpBinding_IWeatherService");
+            client.UploadData();
         }
     }
 }

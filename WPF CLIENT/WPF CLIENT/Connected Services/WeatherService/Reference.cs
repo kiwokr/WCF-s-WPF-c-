@@ -119,13 +119,7 @@ namespace WPF_CLIENT.WeatherService {
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private string URLField;
-
-        public CityWeather(DateTime date, string temperature)
-        {
-            Date = date;
-            Temperature = temperature;
-        }
-
+        
         [global::System.ComponentModel.BrowsableAttribute(false)]
         public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
             get {
@@ -228,10 +222,10 @@ namespace WPF_CLIENT.WeatherService {
         System.Threading.Tasks.Task<WPF_CLIENT.WeatherService.CityList[]> GetCitiesAsync();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IWeatherService/GetWeather", ReplyAction="http://tempuri.org/IWeatherService/GetWeatherResponse")]
-        WPF_CLIENT.WeatherService.CityWeather[] GetWeather(string ID);
+        WPF_CLIENT.WeatherService.CityWeather GetWeather(string ID);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IWeatherService/GetWeather", ReplyAction="http://tempuri.org/IWeatherService/GetWeatherResponse")]
-        System.Threading.Tasks.Task<WPF_CLIENT.WeatherService.CityWeather[]> GetWeatherAsync(string ID);
+        System.Threading.Tasks.Task<WPF_CLIENT.WeatherService.CityWeather> GetWeatherAsync(string ID);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -277,11 +271,11 @@ namespace WPF_CLIENT.WeatherService {
             return base.Channel.GetCitiesAsync();
         }
         
-        public WPF_CLIENT.WeatherService.CityWeather[] GetWeather(string ID) {
+        public WPF_CLIENT.WeatherService.CityWeather GetWeather(string ID) {
             return base.Channel.GetWeather(ID);
         }
         
-        public System.Threading.Tasks.Task<WPF_CLIENT.WeatherService.CityWeather[]> GetWeatherAsync(string ID) {
+        public System.Threading.Tasks.Task<WPF_CLIENT.WeatherService.CityWeather> GetWeatherAsync(string ID) {
             return base.Channel.GetWeatherAsync(ID);
         }
     }

@@ -15,3 +15,20 @@ C:\Users\kiril\source\repos\WCF SERVER\WeatherService\Server\bin\Debug\Google.Pr
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\Server\bin\Debug\AngleSharp.xml
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\Server\bin\Debug\MySql.Data.xml
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\Server\bin\Debug\Google.Protobuf.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\Server.exe.config
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\Server.exe
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\Server.pdb
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\WeatherService.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\AngleSharp.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\MySql.Data.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\Google.Protobuf.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\WeatherService.pdb
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\WeatherService.dll.config
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\AngleSharp.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\MySql.Data.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\bin\Debug\Google.Protobuf.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\obj\Debug\Server.csproj.CopyComplete
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\obj\Debug\Server.exe
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\Server\obj\Debug\Server.pdb

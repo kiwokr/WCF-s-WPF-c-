@@ -12,3 +12,17 @@ C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\A
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\Google.Protobuf.xml
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\MySql.Data.xml
 C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CopyComplete
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.dll.config
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.pdb
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\AngleSharp.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\Google.Protobuf.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\MySql.Data.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\AngleSharp.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\Google.Protobuf.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\bin\Debug\MySql.Data.xml
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CopyComplete
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+c:\Users\kiril\source\repos\WCF(s) + WPF(c)\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.pdb

@@ -7,10 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel Orientation="Horizontal" Height="45" VerticalAlignment="Top">
-            <ComboBox Width="200" Height="40" Margin="10,3,0,0" Name="CBtest" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-            <Button Height="40" Width="150" Margin="10,0,0,0" FontSize="15" Click="ShowWeather">Посмотреть погоду</Button>
-            <Button Height="40" Width="150" Margin="10,0,0,0" FontSize="15" Click="Refresh" ToolTip="Что бы обновить список городов очистите меню выбора города и нажмите Обновить">Обновить</Button>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Height="45" VerticalAlignment="Top">
+                <ComboBox Width="200" Height="40" Margin="10,3,0,0" Name="CBtest" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <Button Height="40" Width="150" Margin="10,0,0,0" FontSize="15" Click="ShowWeather">Посмотреть погоду</Button>
+                <Button Height="40" Width="150" Margin="10,0,0,0" FontSize="15" Click="Button_Click">Обновить данные</Button>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Name="LableText" FontSize="20"/>
+                <TextBlock Name = "Time" FontSize="20"/>
+                <TextBlock Name = "Temp" FontSize="20"/>
+                
+            </StackPanel>
         </StackPanel>
     </Grid>
 </Window>

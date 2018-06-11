@@ -49,7 +49,7 @@ namespace WeatherService
                 }
 
                 DATAMAPPER.MySQLMapper.SetData(T1.GetAttribute("data-id"), T1.GetAttribute("data-name").ToString(), T1.GetAttribute("href"));
-                DATAMAPPER.MySQLMapper.SetData(T1.GetAttribute("data-id"), DateTime.Now, tempValues);
+                DATAMAPPER.MySQLMapper.SetData(T1.GetAttribute("data-id"), DateTime.Now.AddDays(1), tempValues);
                 tempValues = null;
             }
         }
