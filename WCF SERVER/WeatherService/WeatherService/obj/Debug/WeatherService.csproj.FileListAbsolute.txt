@@ -1,0 +1,14 @@
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.dll.config
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.dll
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\WeatherService.pdb
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\AngleSharp.dll
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\Google.Protobuf.dll
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\MySql.Data.dll
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\AngleSharp.xml
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\Google.Protobuf.xml
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\bin\Debug\MySql.Data.xml
+C:\Users\kiril\source\repos\WCF SERVER\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CopyComplete
